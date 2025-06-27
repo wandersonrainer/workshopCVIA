@@ -1,4 +1,4 @@
 # workshopCVIA
 Repositório referente ao workshop realizado no SENAI no dia 30/06/2026.
 
-![Texto Alternativo]([URL_da_Imagem](https://github.com/wandersonrainer/workshopCVIA/blob/main/fig07.png)
+![Texto Alternativo](https://github.com/wandersonrainer/workshopCVIA/blob/main/fig07.png)
